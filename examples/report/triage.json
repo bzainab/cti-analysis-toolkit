@@ -1,0 +1,55 @@
+[
+  {
+    "asset": "DEMO-gateway",
+    "cve": "CVE-2024-3400",
+    "score": 85,
+    "priority": "P1",
+    "kev": true,
+    "cvss": 10.0,
+    "owner": "Example network team",
+    "reasons": [
+      "CISA KEV confirms exploitation in the wild (+40)",
+      "CISA reports ransomware use (+15)",
+      "EPSS unknown; no likelihood points assigned",
+      "Inventory asserts internet exposure (+15)",
+      "Business criticality 5/5 (+15)",
+      "Inventory CVSS 10.0/10; displayed separately from triage"
+    ],
+    "action": "Apply mitigations per vendor instructions as they become available. Otherwise, users with vulnerable versions of affected devices should enable Threat Prevention IDs available from the vendor. See the vendor bulletin for more details and a patch release schedule."
+  },
+  {
+    "asset": "DEMO-file-transfer",
+    "cve": "CVE-2023-34362",
+    "score": 82,
+    "priority": "P1",
+    "kev": true,
+    "cvss": 9.8,
+    "owner": "Example applications team",
+    "reasons": [
+      "CISA KEV confirms exploitation in the wild (+40)",
+      "CISA reports ransomware use (+15)",
+      "EPSS unknown; no likelihood points assigned",
+      "Inventory asserts internet exposure (+15)",
+      "Business criticality 4/5 (+12)",
+      "Inventory CVSS 9.8/10; displayed separately from triage"
+    ],
+    "action": "Apply updates per vendor instructions."
+  },
+  {
+    "asset": "DEMO-logging-service",
+    "cve": "CVE-2021-44228",
+    "score": 67,
+    "priority": "P2",
+    "kev": true,
+    "cvss": 10.0,
+    "owner": "Example platform team",
+    "reasons": [
+      "CISA KEV confirms exploitation in the wild (+40)",
+      "CISA reports ransomware use (+15)",
+      "EPSS unknown; no likelihood points assigned",
+      "Business criticality 4/5 (+12)",
+      "Inventory CVSS 10.0/10; displayed separately from triage"
+    ],
+    "action": "For all affected software assets for which updates exist, the only acceptable remediation actions are: 1) Apply updates; OR 2) remove affected assets from agency networks. Temporary mitigations using one of the measures provided at https://www.cisa.gov/uscert/ed-22-02-apache-log4j-recommended-mitigation-measures are only acceptable until updates are available."
+  }
+]

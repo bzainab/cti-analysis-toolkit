@@ -1,0 +1,4 @@
+192.0.2.10
+2001:db8::1
+example[.]org
+hxxps://example.org/research

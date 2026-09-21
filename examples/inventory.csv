@@ -1,0 +1,4 @@
+asset,cve,internet_exposed,criticality,cvss,owner
+DEMO-gateway,CVE-2024-3400,true,5,10,Example network team
+DEMO-file-transfer,CVE-2023-34362,true,4,9.8,Example applications team
+DEMO-logging-service,CVE-2021-44228,false,4,10,Example platform team

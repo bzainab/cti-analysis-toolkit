@@ -1,0 +1,350 @@
+{
+  "name": "FIN7 documented techniques",
+  "domain": "enterprise-attack",
+  "description": "Observed relationships from https://attack.mitre.org/groups/G0046. Collected 2026-09-21T11:48:01.049546+00:00. Not a detection coverage assessment.",
+  "techniques": [
+    {
+      "techniqueID": "T1005",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1008",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1021.001",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1021.004",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1021.005",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1027.010",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1027.016",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1033",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1036.004",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1036.005",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1047",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1053.005",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1057",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1059",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1059.001",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1059.003",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1059.005",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1059.007",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1069.002",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1071.004",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1078",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1078.003",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1082",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1087.002",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1091",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1102.002",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1105",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1113",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1124",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1125",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1140",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1190",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1195.002",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1204.001",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1204.002",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1210",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1218.005",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1218.011",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1219",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1486",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1497.002",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1543.003",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1546.011",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1547.001",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1553.002",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1558.003",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1559.002",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1564.001",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1564.003",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1566.001",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1566.002",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1567.002",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1569.002",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1571",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1572",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1583.001",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1583.006",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1587.001",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1588.002",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1591",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1591.004",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1608.001",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1608.004",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1608.005",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1620",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1674",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    },
+    {
+      "techniqueID": "T1686",
+      "score": 1,
+      "comment": "Source: https://attack.mitre.org/groups/G0046"
+    }
+  ],
+  "gradient": {
+    "colors": [
+      "#ebf5f0",
+      "#167960"
+    ],
+    "minValue": 0,
+    "maxValue": 1
+  }
+}

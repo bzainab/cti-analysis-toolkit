@@ -1,0 +1,54 @@
+{
+  "type": "bundle",
+  "id": "bundle--6634b318-dcea-4c0e-ad57-54fd4732f2b9",
+  "objects": [
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--60b8fcba-afbd-48b3-9390-9a01fc8f2452",
+      "created": "2026-09-21T12:05:24.000Z",
+      "modified": "2026-09-21T12:05:24.000Z",
+      "name": "192.0.2.10",
+      "description": "Analyst-supplied observable. Maliciousness has not been independently established.",
+      "pattern_type": "stix",
+      "pattern": "[ipv4-addr:value = '192.0.2.10']",
+      "valid_from": "2026-09-21T12:05:24.000Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--5fe8f7b2-c48e-40bc-b598-4f9c1032e4c9",
+      "created": "2026-09-21T12:05:24.000Z",
+      "modified": "2026-09-21T12:05:24.000Z",
+      "name": "2001:db8::1",
+      "description": "Analyst-supplied observable. Maliciousness has not been independently established.",
+      "pattern_type": "stix",
+      "pattern": "[ipv6-addr:value = '2001:db8::1']",
+      "valid_from": "2026-09-21T12:05:24.000Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--33c32195-65be-4370-b931-f1b7ef997251",
+      "created": "2026-09-21T12:05:24.000Z",
+      "modified": "2026-09-21T12:05:24.000Z",
+      "name": "example.org",
+      "description": "Analyst-supplied observable. Maliciousness has not been independently established.",
+      "pattern_type": "stix",
+      "pattern": "[domain-name:value = 'example.org']",
+      "valid_from": "2026-09-21T12:05:24.000Z"
+    },
+    {
+      "type": "indicator",
+      "spec_version": "2.1",
+      "id": "indicator--b927983f-8799-48c5-bf5a-b16f92c4b4f0",
+      "created": "2026-09-21T12:05:24.000Z",
+      "modified": "2026-09-21T12:05:24.000Z",
+      "name": "https://example.org/research",
+      "description": "Analyst-supplied observable. Maliciousness has not been independently established.",
+      "pattern_type": "stix",
+      "pattern": "[url:value = 'https://example.org/research']",
+      "valid_from": "2026-09-21T12:05:24.000Z"
+    }
+  ]
+}
